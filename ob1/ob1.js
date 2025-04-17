@@ -4,4 +4,6 @@ const carro = {
     modelo:"GT California Specia",
     ano:"1968"
 }
-console.log(carro)
+
+const{ano} = carro
+console.log(ano)
